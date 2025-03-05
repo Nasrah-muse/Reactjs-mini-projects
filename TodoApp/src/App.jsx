@@ -25,7 +25,9 @@ function App() {
   }
   return (
     <div className='min-h-screen bg-indigo-900 flex items-center justify-center'>
-      <div className='bg-white  p-6 shadow-md rounded-xl '>
+      <div className='bg-white  p-6 shadow-md rounded-xl space-y-2'>
+      <h1 className='text-2xl text-center font-bold text-cyan-800'>Todo-List App</h1>
+
        <div className='space-x-4'>
        <input type="text"
         placeholder='Enter New task'

@@ -3,7 +3,7 @@
 A simple and interactive to-do list application built with React.
  This app allows users to add tasks, mark them as completed, and delete them.
 
-![Project Preview](./src/assets/Screenshot%202025-03-05%20200059.png)
+![Project Preview](./src/assets/Screenshot%202025-03-05%20223208.png)
 
 ## Features
 
