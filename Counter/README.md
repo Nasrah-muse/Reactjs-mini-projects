@@ -3,6 +3,8 @@
 A simple counter application built using React that allows users to increment, 
 decrement, and reset the count value.
 
+![Project preview](./src/assets/Screenshot%202025-03-05%20174050.png)
+
 ## Features
 
 - **Increment Button:** Increases the count by 1.
